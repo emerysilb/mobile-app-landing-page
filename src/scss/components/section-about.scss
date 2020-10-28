@@ -1,5 +1,5 @@
 .about {
-  &__header{
+  &__header {
     text-align: center;
     text-transform: uppercase;
     font-size: 1rem;
@@ -26,7 +26,6 @@
     color: #9195a4;
   }
 }
-
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
