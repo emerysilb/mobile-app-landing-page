@@ -8,4 +8,4 @@ npm-debug.log
 partials/*
 !src/**/*.hbs
 assets/*
-/firebase.json
+*.cache
